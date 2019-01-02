@@ -27,25 +27,30 @@ Work experience
   * Course: CS105 Intro to Computing for Non-Tech Students
   * Duties included: Lead lab
 
-* May 2016 - Aug 2017: Research Assistant
+* May 2016 - Aug 2017: Graduate Research Assistant
   * Illinois Center for Transportation, University of Illinois at Urbana-Champaign
   * Duties included: Data analysis on Illinois's pavement data
 
 
-<!-- Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Selected Courses
+======
+* System Programming A+
+* Machine Learning A+
+* Distributed System A+
+* Programing Languages & Compilers A+
+* Nature Language Processing A
+* Computer Vision A
+* Data Mining Principles A
+* Database Systems A
+* Data Structures A
+* Introduction to Online Learning System A
 
 <!-- Talks
 ======
