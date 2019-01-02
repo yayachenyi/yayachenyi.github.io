@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -10,7 +10,7 @@ redirect_from:
 
 About
 ======
-I am a Master Student in Computer Science at University Of Illinos at Urbana-Champaign (UIUC).
+I am a Master Student in Computer Science at University of Illinos at Urbana-Champaign (UIUC).
 
 
 
