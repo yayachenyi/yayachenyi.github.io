@@ -10,7 +10,8 @@ redirect_from:
 {% include base_path %}
 
 
-* SQL on the fly
-  * University of Illinois at Urbana-Champaign
-  * Course: CS241 System Programming
-  * Duties included: Teaching Lab & Question Answering
+* Fault-Tolerant Distributed Graph Processing System
+  * Designed and implemented Pregel-like distributed graph processing engine with C++, g++, Protobuf, Googletest and deployed on 10 Linux virtual machines
+  * Developed a generic graph processing engine that supports API for Gather-Apply-Scatter model and accepts user-defined applications such as PageRank and Shortest Path.
+  * Designed and implemented a Cassandra-like distributed file system for file replication with quorum write/read.
+  * Built virtual ring-style failure detector to detect machine failure using Protobuf and UDP protocol with small bandwidth.
