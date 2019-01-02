@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Projects"
+title: "Selected Projects"
 permalink: /project/
 author_profile: true
 redirect_from:
@@ -31,7 +31,7 @@ redirect_from:
   * Built an Amazon Alexa skill to generate the best route among multiple destinations based on user preferences with AWS Lambda function, node.js, Express, Python and Google cloud
   * Implemented backend with node.js to explore the best route that meets user requirements using Google Map API
   * Programmed AWS Lambda function with Python to parse user voice input and present backend calculated result
-  
+
 Reseach Projects
 ======
 * Meta-Graph Based HIN Spectral Embedding
