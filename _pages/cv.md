@@ -11,22 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Civil Engineering, Harbin Institute of Technology, 2015
+* M.S. in Civil Engineering, University of Illinois at Urbana-Champaign, 2017
+* Master in Computer Science, University of Illinois at Urbana-Champaign, 2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2018: Teaching Assistant
+  * University of Illinois at Urbana-Champaign
+  * Course: CS241 System Programming
+  * Duties included: Teaching Lab & Question Answering
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Spring 2018: Teaching Assistant
+  * University of Illinois at Urbana-Champaign
+  * Course: CS105 Intro to Computing for Non-Tech Students
+  * Duties included: Lead lab
+
+ * May 2016 - Aug 2017: Research Assistant
+  * University of Illinois at Urbana-Champaign, ICT
+  * Duties included: Data analysis on Illinois's pavement data
+
+
 Skills
 ======
 * Skill 1
@@ -41,19 +46,19 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams

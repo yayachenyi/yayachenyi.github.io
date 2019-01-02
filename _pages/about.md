@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<!--
 About
-======
+====== -->
 I am a Master Student in Computer Science at University of Illinos at Urbana-Champaign (UIUC).
 
 
