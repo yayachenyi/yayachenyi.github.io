@@ -31,7 +31,10 @@ Work experience
   * Illinois Center for Transportation, University of Illinois at Urbana-Champaign
   * Duties included: Data analysis on Illinois's pavement data
 
-
+* Jan 2014 - Feb 2014: Intern
+  * Grameen Bank, Dhaka, Bangladesh
+  * Interviewed 3 customer families individually about the impact of Grameen Women-only strategy (97\% borrowers are women) to their families (happiness, family status, social impact)
+  * Submitted a report to the Head Office that discussed their Women-only strategy and possibly future situations with this strategy
 
 Publications
 ======
@@ -51,7 +54,15 @@ Selected Courses
 * Database Systems A
 * Data Structures A
 * Introduction to Online Learning System A
+* Intro to Data Mining A
 
+
+Skills
+======
+* Programming: Python, C++, C, Java, javascript, Haskell, SQL, R, HTML, Shell scripting
+* Frameworks: Tensorflow, Pytorch, Numpy, Sklearn, Pandas, Scipy, Googletest, Django, jQuery, Protobuf
+* Tools: AWS, PostgreSQL, GraphX, Git/svn, ElasticSearch, MySQL, Firebase, Hadoop, LaTeX
+* Knowledge: OOD/OOP, Design Patterns, Algorithm, Multi-threading, Web/Mobile Development, MapReduce
 <!-- Talks
 ======
   <ul>{% for post in site.talks %}
