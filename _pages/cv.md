@@ -63,6 +63,8 @@ Skills
 * Frameworks: Tensorflow, Pytorch, Numpy, Sklearn, Pandas, Scipy, Googletest, Django, jQuery, Protobuf
 * Tools: AWS, PostgreSQL, GraphX, Git/svn, ElasticSearch, MySQL, Firebase, Hadoop, LaTeX
 * Knowledge: OOD/OOP, Design Patterns, Algorithm, Multi-threading, Web/Mobile Development, MapReduce
+
+
 <!-- Talks
 ======
   <ul>{% for post in site.talks %}
