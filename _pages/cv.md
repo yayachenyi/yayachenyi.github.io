@@ -27,19 +27,19 @@ Work experience
   * Course: CS105 Intro to Computing for Non-Tech Students
   * Duties included: Lead lab
 
- * May 2016 - Aug 2017: Research Assistant
-  * University of Illinois at Urbana-Champaign, ICT
+* May 2016 - Aug 2017: Research Assistant
+  * Illinois Center for Transportation, University of Illinois at Urbana-Champaign
   * Duties included: Data analysis on Illinois's pavement data
 
 
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
@@ -47,11 +47,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
 
 Teaching
 ======
